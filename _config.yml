@@ -1,11 +1,11 @@
 # Site settings
 author: Nick Oseland
-title: 
+title: Exploratory Data Analysis
 header-img: img/home-bg.png
 email: noseland84@gmail.com
 copyright_name: Nick Oseland
 description: > # this means to ignore newlines until "baseurl:"
-  
+  EDA
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Oseland84
