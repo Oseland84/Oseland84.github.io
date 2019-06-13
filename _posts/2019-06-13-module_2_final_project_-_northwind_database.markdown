@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Module 2: Final Project - Northwind Database"
-date:       2019-06-13 22:55:39 +0000
+date:       2019-06-13 18:55:40 -0400
 permalink:  module_2_final_project_-_northwind_database
 ---
 
 
 ## June 13, 2019
 
-   Much like this blog post, I had a hard time figuring out how I wanted to approach this project. It began with  being presented the Northwind Database. We were told that we would need to create 4 seperate scientific hypothesis from the data we were given, and were provided with the first question to ask. the first question asking whether or not discounting products has a statistically significant effect on the quantity of a product in an order. The other 3 (or more) questions were on us though. The first step for me however, was to get a better feel of the database we would be working with. That was my workflow, so that is how I will begin. The Northwind Database is a sample database, about a fictitious company named "Northwind Traders". It captures all the sales transactions that occurs between the company and its customers. It also contains the purchase transactions between Northwind and its suppliers. Here is a better breakdown:
+   Much like this blog post, I had a hard time figuring out how I wanted to approach this project. It began with  being presented the Northwind Database. We were told that we would need to create 4 seperate scientific hypothesis from the data we were given, and were provided with the first question to ask. the first question asking whether or not discounting products has a statistically significant effect on the quantity of a product in an order. The other 3 (or more) questions were on us though. The first step for me however, was to get a better feel of the database we would be working with. That was my workflow(eventually, but we will get to that), so that is what I will focus on. The Northwind Database is a sample database, about a fictitious company named "Northwind Traders". It captures all the sales transactions that occurs between the company and its customers. It also contains the purchase transactions between Northwind and its suppliers. Here is a better breakdown:
 	 
 	 
 1.  Suppliers and Vendors of Northwind.
